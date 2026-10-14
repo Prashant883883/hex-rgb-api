@@ -1,6 +1,8 @@
-
 /**
- * Integration tests for the Express hex-to-RGB API.
+ * Integration tests for the Hex-to-RGB REST API.
+ *
+ * These tests send HTTP requests to the Express application
+ * and verify the API responses.
  */
 
 const { assert } = require("chai");

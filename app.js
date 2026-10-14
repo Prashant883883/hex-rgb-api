@@ -1,6 +1,9 @@
-
 /**
- * Express application providing the hex-to-RGB REST API.
+ * Express application for the Hex-to-RGB REST API.
+ *
+ * This application provides an API route that uses the
+ * hexToRgb library to convert hexadecimal colour values
+ * into RGB values.
  */
 
 const express = require("express");

@@ -1,6 +1,8 @@
-
 /**
  * Unit tests for the hexToRgb library.
+ *
+ * These tests verify that valid hexadecimal colour values
+ * are correctly converted into RGB values.
  */
 
 const { assert } = require("chai");

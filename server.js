@@ -1,6 +1,8 @@
 
 /**
- * Starts the Express API server.
+ * Starts the Hex-to-RGB Express server.
+ *
+ * The server listens for HTTP requests on the configured port.
  */
 
 const app = require("./app");
